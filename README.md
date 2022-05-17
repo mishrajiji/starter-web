@@ -2,7 +2,7 @@
 this is simple website
 
 ## Introduction
-
+this is example
 
 ## Purpose
 
