@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    gaurav Mishra -- QA -- mishraji
 
 # THANKS
 
