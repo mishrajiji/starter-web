@@ -11,3 +11,6 @@ nothing
 deployemnt is not easy
 
 ## How To Contribute
+
+### Copyright
+Copy Copy
