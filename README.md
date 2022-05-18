@@ -5,7 +5,9 @@ this is simple website
 this is example
 
 ## Purpose
+nothing
 
 ## Deploy
+deployemnt is not easy
 
 ## How To Contribute
