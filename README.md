@@ -11,6 +11,7 @@ nothing
 deployemnt is not easy
 
 ## How To Contribute
+New Text direct to Master
 
 ### Copyright
 Copy Copy
